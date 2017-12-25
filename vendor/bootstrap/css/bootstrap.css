@@ -5701,6 +5701,9 @@ a.bg-success:focus, a.bg-success:hover {
 .bg-info {
   background-color: #17a2b8 !important;
 }
+.bg-blue{
+  background-color: #87CEFA !important;
+}
 
 a.bg-info:focus, a.bg-info:hover {
   background-color: #117a8b !important;
